@@ -42,6 +42,7 @@ Cache 512E/4Kn Hard Drive
 - Connect Teledyne data acquisition device to the host computer
 - Follow instructions and install [Visual Studio](https://visualstudio.microsoft.com/)
 - Install Teledyne hardware driver and C/C++ API support
+- Follow instructions in the Teledyne ADQUpdater User Guide to update PFGA firmware
 - Follow instructions and install [freeGLUT](https://freeglut.sourceforge.net/) for OpenGL support (this step can be skiped for installation using the packages saved in JiLab drive)
 
 
